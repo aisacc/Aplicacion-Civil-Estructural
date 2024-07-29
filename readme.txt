@@ -1,1 +1,0 @@
-Esta versión contempla la gráfica en dos direcciones: 'x' y 'y'.
