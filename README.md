@@ -41,6 +41,14 @@ El diagrama de interacción de columnas es una herramienta fundamental en la ing
 
 Por lo tanto, el diagrama de interacción de columnas es esencial en la ingeniería civil para diseñar estructuras seguras, optimizar el uso de materiales, y garantizar que las columnas pueden soportar las combinaciones de cargas y momentos que experimentarán durante su vida útil.
 
+## Nomenclatura de archivos
+* Los archivos que inician con `nb` (_notebook_ o cuaderno) son aquellos que se deben abrir y ejecutar.
+* Los archivos que inician con `fnc` (_function_ o función) son aquellos que no se deben (ni se puede) ejecutar. Sólo pueden ser llamados.
+* Los archivos que inician con `app` (_application_ o aplicación) son aquellos que se están desarrollando para la creación de aplicaciones interactivas (interfaz gráfica). _**No se recomienda utilizar porque todavía están en desarrollo.**_
+* El resto de archivos que no tienen nomenclatura son archivos auxiliares o explicativos.
+
+ _**Todos los códigos se pueden modificar según la necesidad.**_ 
+
 ## Referencias
 * American Institute of Steel Construction (AISC). (2022). **Specification for Structural Steel Buildings** (ANSI/AISC 360-22). American Institute of Steel Construction.
 * Hibbeler, R. C. (2017). **Structural analysis** (10th ed.). Pearson.
