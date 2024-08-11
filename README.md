@@ -7,7 +7,7 @@
 *Autor: **Isacc Alpala**. Área de estudio: **Ingeniería civil***
 
 ## Alcance y pre-requisitos
-**Alcance.** Estos códigos forman parte del diseño de estructuras, pero nada más una pequeña parte. El diseño estructural de edificios es muy amplio, por lo que el uso de estos códigos se limita a un análisis exploratorio y/o explicación académica.
+**Alcance.** Estos códigos forman parte del diseño de estructuras, pero nada más una pequeña parte. El diseño estructural de edificaciones es muy amplio, por lo que el uso de estos códigos se limita a un análisis exploratorio y/o explicación académica.
 
 **Pre-requisitos.** Los siguientes pre-requisitos corresponden a asignaturas de la carrera de ingeniería civil de pregrado.
 - Estática
