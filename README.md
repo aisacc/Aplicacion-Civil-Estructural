@@ -42,9 +42,12 @@ El diagrama de interacción de columnas es una herramienta fundamental en la ing
 Por lo tanto, el diagrama de interacción de columnas es esencial en la ingeniería civil para diseñar estructuras seguras, optimizar el uso de materiales, y garantizar que las columnas pueden soportar las combinaciones de cargas y momentos que experimentarán durante su vida útil.
 
 ## Referencias
-* Hibbeler, R. C. (2017). Structural analysis (10th ed.). Pearson.
-* McCormac, J. C., & Brown, R. H. (2014). Design of reinforced concrete (10th ed.). John Wiley & Sons.
-* Nilson, A. H., Darwin, D., & Dolan, C. W. (2010). Design of concrete structures (14th ed.). McGraw-Hill Education.
+* American Institute of Steel Construction (AISC). (2022). **Specification for Structural Steel Buildings** (ANSI/AISC 360-22). American Institute of Steel Construction.
+* Hibbeler, R. C. (2017). **Structural analysis** (10th ed.). Pearson.
+* McCormac, J. C., & Brown, R. H. (2014). **Design of reinforced concrete** (10th ed.). John Wiley & Sons.
+* Nilson, A. H., Darwin, D., & Dolan, C. W. (2010). **Design of concrete structures** (14th ed.). McGraw-Hill Education.
+* Segui, W. T. (2017). **Steel Design** (6th ed.). Cengage Learning.
+* Williams, M. S., & Addenbrooke, M. I. (2020). **Structural Steelwork: Design to Limit State Theory** (4th ed.). CRC Press.
 
 ## Social media del autor
 - Instagram: [Aisacc](https://www.instagram.com/aisacc___/)
