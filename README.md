@@ -61,3 +61,7 @@ Por lo tanto, el diagrama de interacción de columnas es esencial en la ingenier
 - Instagram: [Aisacc](https://www.instagram.com/aisacc.me/)
 - LinkedIn: [Isacc Alpala](https://www.linkedin.com/in/isaccalpala/)
 - YouTube: [Aisacc](https://www.youtube.com/@aisacc-me/)
+
+## Comparte con el autor tus dudas, peticiones o recomendaciones
+- Discord: [Comunidad Technica](https://discord.com/invite/V6MedeXDkA)
+Si no sabes como utilizar Discord, en donde hacer tus preguntas o tengas otras dudas, mira este vídeo: [Conoce la comunidad de Technica](www.youtube.com).
