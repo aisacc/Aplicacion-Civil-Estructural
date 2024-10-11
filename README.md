@@ -58,6 +58,6 @@ Por lo tanto, el diagrama de interacción de columnas es esencial en la ingenier
 * Williams, M. S., & Addenbrooke, M. I. (2020). **Structural Steelwork: Design to Limit State Theory** (4th ed.). CRC Press.
 
 ## Social media del autor
-- Instagram: [Aisacc](https://www.instagram.com/aisacc___/)
+- Instagram: [Aisacc](https://www.instagram.com/aisacc.me/)
 - LinkedIn: [Isacc Alpala](https://www.linkedin.com/in/isaccalpala/)
 - YouTube: [Aisacc](https://www.youtube.com/@aisacc-me/)
